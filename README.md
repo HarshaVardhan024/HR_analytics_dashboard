@@ -24,3 +24,13 @@ Data Cleaning:
 • Distance from Home
 
 First page includes the demographic insights, the Second page focuses on turnover analysis 1, the Third page on turnover analysis 2, and the final page is dedicated to employee wellness. I will explain the content of each page accordingly.
+
+# Final Dashboards:
+![Hr 1](https://github.com/HarshaVardhan024/HR_analytics_dashboard/assets/149884159/ace8c5ce-d67b-420b-8ee3-67dd20f1eb14)
+![Hr 2](https://github.com/HarshaVardhan024/HR_analytics_dashboard/assets/149884159/8641ed53-c2b0-40ca-9081-e9df7a4e11a6)
+![Hr 3](https://github.com/HarshaVardhan024/HR_analytics_dashboard/assets/149884159/67f7da50-3766-445a-85fd-d8f9096f430d)
+![Hr 4](https://github.com/HarshaVardhan024/HR_analytics_dashboard/assets/149884159/afc85d53-e431-4b04-aca3-1662c84fe8d0)
+
+
+
+
